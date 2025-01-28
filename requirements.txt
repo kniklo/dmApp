@@ -12,3 +12,4 @@ WTForms==3.2.1
 
 SQLAlchemy~=2.0.37
 alembic~=1.14.1
+email_validator
